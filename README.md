@@ -1,4 +1,4 @@
-# Una skill per imparare C#, non per farsi scrivere il codice
+# Una skill per scrivere C# che sai rileggere
 
 Questa è la skill Claude Code che uso quando scrivo C#/.NET, insieme al registro
 che le sta accanto. La pubblico perché il meccanismo mi sembra riutilizzabile —
@@ -43,8 +43,8 @@ disagio.
 
 **Solo C#.** CSS, JavaScript, HTML e markup delle view sono fuori dal meccanismo
 per scelta: quelli li scrivo senza fermarmi a chiedere e senza registrarli.
-Altrimenti il registro si riempie di roba che non c'entra con quello che sto
-studiando, e a quel punto smetti di rileggerlo.
+Altrimenti il registro si riempie di roba che non c'entra con quello su cui sto
+lavorando, e a quel punto smetti di rileggerlo.
 
 ## Prima di copiare le regole
 
